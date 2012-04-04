@@ -1,7 +1,6 @@
 [
     {
         "keys": ["ctrl+'"],
-        "command": "goto_last_edit",
-        "context": [{"key": "setting.command_mode"}]
+        "command": "goto_last_edit"
     }
 ]
